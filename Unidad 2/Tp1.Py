@@ -1,9 +1,5 @@
 #------------------ PRACTICO 1 --------------------------
 
-##Trabajo practico de la unidad 1 se copia en Unidad 2
-
-
-
 
 #Ejercicio 1---------------------------------------------
 
